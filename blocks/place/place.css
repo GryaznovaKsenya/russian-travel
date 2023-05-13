@@ -1,13 +1,22 @@
 .place{
-    display: grid;
-    grid-template-columns: 460px 1fr;
-    gap: 48px 40px;
-    margin: auto;
-    margin-bottom: 80px;
-    border: 1px solid red;
-    justify-content: center;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  gap: 48px 40px;
+  margin: auto;
+  margin-bottom: 80px;
+  border: 1px solid red;
+  justify-content: center;
+  max-width: 984px;
+}
+
+.place:last-child{
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place{
+    max-width: 982px;
+    grid-template-columns: 440px 1fr;
+    gap: 48px 32px;
   }
-  
-  .place:last-child{
-    margin-bottom: 0;
-  }
+}
