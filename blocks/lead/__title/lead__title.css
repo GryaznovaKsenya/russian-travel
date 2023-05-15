@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px; /* изменить */
+  line-height: 100px;
   text-align: center;
   margin: 0 auto;
   padding-bottom: 32px;
@@ -28,8 +28,6 @@
   font-weight: 900;
   font-size: 40px;
   line-height: 44px;
-  /* or 110% */
-
   text-align: center;
   }
 }

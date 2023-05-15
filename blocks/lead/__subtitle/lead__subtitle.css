@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
-  line-height: 36px; /* изменить */
+  line-height: 36px;
   text-align: center;
   margin: 0 auto;
   padding-bottom: 64px;
@@ -17,8 +17,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
-  /* or 125% */
-
   text-align: center;
   padding-bottom: 40px;
   }
