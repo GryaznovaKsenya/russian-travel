@@ -29,3 +29,11 @@
   }
 }
 
+@media screen and (max-width: 320px) {
+  .header{
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 48px;
+    padding-right: 16px;
+  }
+}

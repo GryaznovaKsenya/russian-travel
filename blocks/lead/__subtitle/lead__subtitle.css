@@ -1,11 +1,25 @@
 .lead__subtitle{
-    max-width: 640px;
-    height: 72px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 36px; /* изменить */
-    text-align: center;
-    margin: 0 auto;
-    padding-bottom: 64px;
+  max-width: 640px;
+  height: 72px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px; /* изменить */
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 64px;
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle{
+  max-width: 288px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  text-align: center;
+  padding-bottom: 40px;
   }
+}
