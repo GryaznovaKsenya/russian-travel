@@ -9,6 +9,10 @@
   font-weight: 400;
 }
 
+.header__link:hover{
+  opacity: 0.8;
+}
+
 @media screen and (max-width: 320px) {
   .header__link{
     font-style: normal;

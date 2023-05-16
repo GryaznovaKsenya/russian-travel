@@ -27,7 +27,7 @@
   transition: .5s;
 }
 
-.cover__overlay:hover {
+.cover__overlay:hover::before {
   opacity: 0.8;
 }
 
