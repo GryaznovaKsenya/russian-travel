@@ -9,6 +9,7 @@
   margin: 0 auto;
   padding-top: 8px;
   align-self: start;
+  border: 1px solid red;
 }
 
 @media screen and (max-width: 768px) {
