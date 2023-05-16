@@ -1,4 +1,4 @@
-.header__lang-link{
+.header__link{
   padding: 0;
   margin: 0;
   color: white;
@@ -9,17 +9,12 @@
   font-weight: 400;
 }
 
-.header__lang-link:hover{
-  text-decoration: underline;
-}
-
 @media screen and (max-width: 320px) {
-  .header__lang-link{
+  .header__link{
     font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 20px;
-  text-align: right;
-  text-decoration-line: underline;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: right;
   }
 }
