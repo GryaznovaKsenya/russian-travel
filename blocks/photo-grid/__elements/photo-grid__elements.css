@@ -6,7 +6,6 @@
   grid-template-rows: repeat(3, 1fr);
   gap: 16px;
   list-style: none;
-  border: 1px solid red;
 }
 
 /* исправила на min-width - max-width = исправила ошибка 
