@@ -7,19 +7,13 @@
   line-height: 58px;
 }
 
-@media screen and (max-width: 768px) {
+/* исправила max-width , до 767 не меняется */
+@media screen and (max-width: 767px) {
   .intro__title{
-    margin: 0 16px 40px 0;
-    font-size: 54px;
-    line-height: 58px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .intro__title{
-    margin: 0 16px 40px 0;
-    font-style: normal;
-    font-weight: 900;
+    margin-top: 0;
+    margin-right: 16px;
+    margin-bottom: 40px;
+    margin-left: 0;
     font-size: 32px;
     line-height: 35px;
   }
