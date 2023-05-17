@@ -10,7 +10,7 @@
 
 
 **ссылка на проект GitHub Pages**
-
+https://gryaznovaksenya.github.io/russian-travel/index.html
 
 
 #### Автор: Грязнова Ксения
