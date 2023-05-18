@@ -4,7 +4,6 @@
   gap: 27px;
 }
 
-/* исправила на min-width - max-width */
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place__paragraphs {
     gap: 25px;

@@ -7,7 +7,6 @@
   line-height: 58px;
 }
 
-/* исправила max-width , до 767 не меняется */
 @media screen and (max-width: 767px) {
   .intro__title{
     margin-top: 0;

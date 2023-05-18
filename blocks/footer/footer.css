@@ -10,8 +10,6 @@
   padding-left: 48px;
 }
 
-/* исправила на min-width - max-width */
-
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .footer{
     max-width: 720px;

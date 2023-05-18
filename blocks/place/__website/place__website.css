@@ -6,8 +6,6 @@
   align-self: end;
 }
 
-/* исправила на max-width */
-
 @media screen and (max-width: 767px) {
   .place__website {
     font-size: 38px;

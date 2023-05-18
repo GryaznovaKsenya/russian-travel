@@ -9,8 +9,6 @@
   padding-bottom: 64px;
 }
 
-/* исправила на min-width - max-width */
-
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__subtitle{
     padding-bottom: 56px;

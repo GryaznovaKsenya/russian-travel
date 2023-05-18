@@ -10,7 +10,6 @@
   gap: 80px;
 }
 
-/* исправила на min-width - max-width */
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .places {
     margin-left: 48px;
@@ -28,7 +27,6 @@
   }
 }
 
-/* исправила https://disk.yandex.ru/i/SecuSNgPvZnCFA отступ между блоков */
 @media screen and (max-width: 767px) {
   .places {
     gap: 50px;

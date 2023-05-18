@@ -8,9 +8,6 @@
   list-style: none;
 }
 
-/* исправила на min-width - max-width = исправила ошибка 
-Очень маленькие картинки в галлерее после прохождения брейкпоинта. */
-
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .photo-grid__elements{
     max-width: 928px;

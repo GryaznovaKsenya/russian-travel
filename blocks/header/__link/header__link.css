@@ -13,7 +13,6 @@
   opacity: 0.8;
 }
 
-/* исправила на max-width: 767px */
 @media screen and (max-width: 767px) {
   .header__link{
     font-size: 18px;
