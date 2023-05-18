@@ -1,4 +1,4 @@
 .photo-grid__img{
-  box-sizing: border-box;
+  object-fit: cover;
   width: 100%;
 }

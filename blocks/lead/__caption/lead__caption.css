@@ -10,15 +10,10 @@
   align-self: start;
 }
 
-/* я не совсем поняла на счет правки :
-между брейкпоинтов 768px и 1024px:
-https://disk.yandex.ru/i/v5zigBg3X6jbIA текст липнет к краю страницы 
 
-так как по брифу он с 1024 к 768 переходит и как раз липнет
-*/
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 768px) {
   .lead__caption{
-    margin-left: 0;
+    margin-left: 24px;
   }
 }
 
